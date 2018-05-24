@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UI">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAACAAAAAAACgABAAAwCAIBEgAAAAAAFEAA=</HashCode>
+      <FileName>UI.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ctrl" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Controller">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAhAAEAAAACAAAAABECEABAAAAEAAY=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="doggieList" />
+      <Field Name="repo" />
+      <Field Name="valid" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FileRepository">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAIAAAAAAAAAAgEAAAAAAAAAAIAAABA=</HashCode>
+      <FileName>FileRepository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogValidator" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

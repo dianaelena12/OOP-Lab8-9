@@ -1,0 +1,8 @@
+Ralf,Saint Bernand,3,https://cdn.shopify.com/s/files/1/1133/5028/files/st-bernard-dog-alps.jpg?v=1488930943
+Buddy,Corgi,1,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WelshCorgi.jpeg/220px-WelshCorgi.jpeg
+Martin,Corgi,2,http://www.pawculture.com/uploads/versions/murray-corgi-butts---x----557-556x---.jpg
+Sebastian,The hedgehog,2,https://assets.change.org/photos/6/qi/uw/qSqiuWpIeJeDCZW-1600x900-noPad.jpg?1520990123
+Bobby,Chihuahua,4,https://www.puppiesclub.com/wp-content/uploads/2017/06/chihuahua-puppy-funny-face-5.jpg
+Dede,Shepherd,6,http://dogable.net/wp-content/uploads/2013/04/king-shepherd-dog-300x261.png
+Alli,Boxer,5,https://vetstreet.brightspotcdn.com/dims4/default/2bc14bc/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F5f%2Ffbf8309e9111e0a2380050568d634f%2Ffile%2FBoxer-4-645mk062111.jpg
+Bob,French,4,dfhrrw

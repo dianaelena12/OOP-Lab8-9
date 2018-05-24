@@ -1,0 +1,2 @@
+Ralf,Saint Bernand,3,https://cdn.shopify.com/s/files/1/1133/5028/files/st-bernard-dog-alps.jpg?v=1488930943
+Buddy,Corgi,1,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WelshCorgi.jpeg/220px-WelshCorgi.jpeg
